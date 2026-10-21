@@ -66,11 +66,11 @@ We’re saving LBW for a day when neither of us has anywhere to be. For now, we�
 ### Brian Adkins
 **Subtitle:** Occasionally Ryan
 
-Brian works in conservation and is usually a respectable American. His more adventurous alter ego is called Ryan, and the team is always pleased when he makes an appearance.
+Brian works in conservation and is usually a respectable Canadian. His more adventurous alter ego is called Ryan, and the team is always pleased when he makes an appearance.
 
 On the field, we’d appreciate slightly less commitment to releasing things back into the wild. A cricket ball arriving at catching height is one species we’d very much like him to keep.
 
-There’s also the small matter of converting a baseball arm into a cricket action. Teaching the Americans to bowl has become a group project, with everyone else advised to stand well back.
+There’s also the small matter of converting a baseball arm into a cricket action. Teaching the North Americans to bowl has become a group project, with everyone else advised to stand well back.
 
 Brian brings enthusiasm and good company. Ryan brings the entertainment.
 
