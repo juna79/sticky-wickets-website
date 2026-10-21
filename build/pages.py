@@ -45,11 +45,11 @@ def player_card(x):
             f'<div class="info"><h3>{x["name"]}</h3><div class="role">{x["cardLabel"]}</div><span class="rd">Read bio →</span></div></button>')
 
 UPCOMING = [  # chronological; time/venue left TBC unless supplied
-    {"iso":"2026-10-31","day":"31","mon":"Oct","long":"Saturday 31 October 2026","opp":"Muthaiga Country Club","where":"Limuru Grounds \u00b7 Start time TBC"},
+    {"iso":"2026-10-31","day":"31","mon":"Oct","long":"Saturday 31 October 2026","opp":"Muthaiga Country Club","where":"Limuru Grounds \u00b7 11:00 am start"},
     {"iso":"2026-11-21","day":"21","mon":"Nov","long":"Saturday 21 November 2026","opp":"The Swish","where":"Venue and start time TBC"},
 ]
 UPCOMING.sort(key=lambda f:f["iso"])
-NEXT = '<div class="date"><b>31</b><span>Oct</span></div><div><div class="vs">Sticky Wickets v Muthaiga Country Club</div><div class="sub">Saturday 31 October 2026 · Limuru Grounds · Start time TBC</div></div><span class="tag">Upcoming</span>'
+NEXT = '<div class="date"><b>31</b><span>Oct</span></div><div><div class="vs">Sticky Wickets v Muthaiga Country Club</div><div class="sub">Saturday 31 October 2026 · Limuru Grounds · 11:00 am start</div></div><span class="tag">Upcoming</span>'
 PAST = '''<a class="match" href="medics-match.html"><div class="date"><b>2026</b><span>Season</span></div><div><div class="vs">Sticky Wickets v The Medics</div><div class="sub">Tigoni · A clinical performance in glorious sunshine</div></div><span class="tag win">Match report →</span></a>
 <a class="match" href="misty-game.html"><div class="date"><b>11</b><span>Jul</span></div><div><div class="vs">Sticky Wickets in the Mist</div><div class="sub">Tigoni · Visibility optional, appeals compulsory</div></div><span class="tag win">Match report →</span></a>
 <a class="match" href="rhino-cup.html"><div class="date"><b>Jun</b><span>2026</span></div><div><div class="vs">The Rhino Cup</div><div class="sub">Club tour · Nanyuki</div></div><span class="tag win">Tour story →</span></a>'''
@@ -67,7 +67,7 @@ def sec_head(eb,t,right=""):
 idx = head("Home") + f'''
 <div class="hero2"><img src="assets/home/hero.jpg" alt="The Sticky Wickets Cricket Club, Tigoni: a batsman at the crease beside the club crest and the motto Adhaerere Maneat"><h1 class="sr">The Sticky Wickets Cricket Club</h1></div>
 <div class="strip home"><div class="wrap"><div class="cta"><a class="btn solid" href="fixtures.html">Fixtures &amp; results</a><a class="btn ghost" href="club.html">Discover our club →</a></div>
-<div class="nm"><span class="pill">Next match</span><div><b>Sticky Wickets v Muthaiga Country Club</b><div class="meta">Saturday 31 October 2026 · Limuru Grounds</div></div></div></div></div>
+<div class="nm"><span class="pill">Next match</span><div><b>Sticky Wickets v Muthaiga Country Club</b><div class="meta">Saturday 31 October 2026 · 11:00 am · Limuru Grounds</div></div></div></div></div>
 <section><div class="wrap"><div class="about"><div class="reveal"><span class="eyebrow">The club</span><h2>More than a cricket club.</h2>
 <p>Sticky Wickets is built around good company, adventurous fixtures and the firm belief that every match deserves a proper story afterwards.</p>
 <p>From our home in Tigoni to club tours beneath Mount Kenya, we play for the cricket, the camaraderie and everything that happens between the overs.</p><a class="btn ghost" href="club.html">About the club →</a></div>
@@ -93,7 +93,7 @@ write("club.html", head("The Club","club.html") + hero("The club","More than a c
 <div class="trio reveal">
 <a class="tile" href="misty-game.html"><img src="assets/misty/pitch.jpg" alt="The marked pitch at Tigoni disappearing into the mist"><div><span class="eyebrow">Home · Tigoni</span><h3>The mist of Tigoni</h3><p>Our home ground, high in the Kenyan highlands, with a pavilion stove that has never let us down.</p></div></a>
 <a class="tile" href="rhino-cup.html"><img src="assets/rhino/wide-match.jpg" alt="Tournament cricket on the golden plains outside Nanyuki"><div><span class="eyebrow">Away · Nanyuki</span><h3>The Rhino Cup</h3><p>Our first club tour, beneath Mount Kenya.</p></div></a>
-<a class="tile" href="fixtures.html"><img src="assets/misty/action.jpg" alt="Stickies in action as the mist lifts"><div><span class="eyebrow">Next · Limuru</span><h3>Muthaiga Country Club</h3><p>Saturday 31 October 2026 at Limuru Grounds.</p></div></a></div></div></section>
+<a class="tile" href="fixtures.html"><img src="assets/misty/action.jpg" alt="Stickies in action as the mist lifts"><div><span class="eyebrow">Next · Limuru</span><h3>Muthaiga Country Club</h3><p>Saturday 31 October 2026, 11:00 am, at Limuru Grounds.</p></div></a></div></div></section>
 <section style="padding:20px 0 90px"><div class="wrap reveal"><blockquote>“Proper cricket. Questionable judgement. Excellent company.”</blockquote></div></section>
 ''' + FOOT)
 
@@ -158,7 +158,7 @@ write("gallery.html", head("Gallery","gallery.html") + hero("Club archive","Thre
 
 # ---------- join
 write("join.html", head("Join","join.html") + hero("Join us","Fancy a game?","Whether you bat, bowl, or just bring excellent snacks — there's a place at the Tigoni pavilion.") + '''
-<section><div class="wrap"><div class="cards3 reveal"><div class="card"><span class="eyebrow">Come and watch</span><h3>Next match</h3><p>Sticky Wickets v Muthaiga Country Club, Saturday 31 October 2026, Limuru Grounds.</p></div>
+<section><div class="wrap"><div class="cards3 reveal"><div class="card"><span class="eyebrow">Come and watch</span><h3>Next match</h3><p>Sticky Wickets v Muthaiga Country Club, Saturday 31 October 2026, 11:00 am, Limuru Grounds.</p></div>
 <div class="card"><span class="eyebrow">Play for us</span><h3>New Stickies welcome</h3><p>Contact details are being added to this page.</p></div>
 <div class="card"><span class="eyebrow">Home ground</span><h3>Tigoni, Kenya</h3><p>Adhaerere Maneat.</p></div></div></div></section>
 ''' + FOOT)
