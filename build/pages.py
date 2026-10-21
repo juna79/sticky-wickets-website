@@ -52,7 +52,7 @@ PAST = '''<a class="match" href="medics-match.html"><div class="date"><b>2026</b
 def story(href,img,eb,t,p,more):
     return f'<a class="story" href="{href}"><img src="{img}" alt="" loading="lazy"><div><span class="eyebrow">{eb}</span><h3>{t}</h3><p>{p}</p><span class="more">{more}</span></div></a>'
 S_MIST = story("misty-game.html","assets/misty/hero.jpg","Match report · 11 July 2026","Sticky Wickets in the Mist","Visibility became optional, appeals remained compulsory and the pavilion stove emerged as the day's most consistent performer.","Read the match report →")
-S_MED = story("medics-match.html","assets/medics/photo-15.jpg","Match report · Season 2026","The Medics Match","A clinical performance, glorious sunshine and excellent company. The Medics brought the precision; the Stickies brought the optimism.","Read the match report →")
+S_MED = story("medics-match.html","assets/medics/photo-4.jpg","Match report · Season 2026","The Medics Match","A clinical performance, glorious sunshine and excellent company. The Medics brought the precision; the Stickies brought the optimism.","Read the match report →")
 S_RHINO = story("rhino-cup.html","assets/rhino/scoreboard-mountain.jpg","First club tour · June 2026","Our First Rhino Cup","Sticky Wickets headed north to Nanyuki for tournament cricket, enormous skies and the beginning of a new tradition.","See the tour story →")
 
 def sec_head(eb,t,right=""):
@@ -60,10 +60,9 @@ def sec_head(eb,t,right=""):
 
 # ---------- index
 idx = head("Home") + f'''
-<div class="hero"><img src="assets/misty/hero.jpg" alt="Morning mist over the Tigoni cricket ground"><img class="logo" src="assets/logo.png" alt="The Sticky Wickets coat of arms">
-<div class="wrap"><span class="eyebrow">Our home in Tigoni · Kenya</span><h1>Sticky Wickets <em>Cricket Club</em></h1><p>Cricket, friendship and tradition in the Kenyan highlands.</p>
-<div class="cta"><a class="btn solid" href="fixtures.html">Fixtures &amp; results</a><a class="btn ghost" href="club.html">Discover our club →</a></div></div></div>
-<div class="strip"><div class="wrap"><div><span class="pill">Next match</span></div><div><b>Sticky Wickets v Mutaiga Country Club</b><div class="meta">Saturday 31 October 2026 · Limuru Grounds</div></div><a class="btn ghost" href="fixtures.html">All fixtures →</a></div></div>
+<div class="hero2"><img src="assets/home/hero.jpg" alt="The Sticky Wickets Cricket Club, Tigoni: a batsman at the crease beside the club crest and the motto Adhaerere Maneat"><h1 class="sr">The Sticky Wickets Cricket Club</h1></div>
+<div class="strip home"><div class="wrap"><div class="cta"><a class="btn solid" href="fixtures.html">Fixtures &amp; results</a><a class="btn ghost" href="club.html">Discover our club →</a></div>
+<div class="nm"><span class="pill">Next match</span><div><b>Sticky Wickets v Mutaiga Country Club</b><div class="meta">Saturday 31 October 2026 · Limuru Grounds</div></div></div></div></div>
 <section><div class="wrap"><div class="about"><div class="reveal"><span class="eyebrow">The club</span><h2>More than a cricket club.</h2>
 <p>Sticky Wickets is built around good company, adventurous fixtures and the firm belief that every match deserves a proper story afterwards.</p>
 <p>From our home in Tigoni to club tours beneath Mount Kenya, we play for the cricket, the camaraderie and everything that happens between the overs.</p><a class="btn ghost" href="club.html">About the club →</a></div>
@@ -79,16 +78,17 @@ idx = head("Home") + f'''
 write("index.html", idx)
 
 # ---------- club
-write("club.html", head("The Club","club.html") + hero("The club","More than a cricket club.","Good company, adventurous fixtures, and the belief that every match deserves a proper story afterwards.","assets/rhino/wide-match.jpg") + f'''
+write("club.html", head("The Club","club.html") + hero("The club","More than a cricket club.","Good company, adventurous fixtures, and the belief that every match deserves a proper story afterwards.") + f'''
 <section><div class="wrap"><div class="about"><div class="reveal"><span class="eyebrow">Who we are</span><h2>Cricket, friendship and tradition.</h2>
 <p>Sticky Wickets is built around good company, adventurous fixtures and the firm belief that every match deserves a proper story afterwards.</p>
 <p>From our home in Tigoni to club tours beneath Mount Kenya, we play for the cricket, the camaraderie and everything that happens between the overs.</p>
-<p style="font-family:'Barlow Condensed','Arial Narrow',sans-serif;font-style:italic;color:var(--gold)">Adhaerere Maneat</p></div>
-<div class="stats reveal"><div class="stat"><strong>Tigoni</strong><span>Our home ground</span></div><div class="stat"><strong>1st</strong><span>Rhino Cup tour, Nanyuki</span></div><div class="stat"><strong>3</strong><span>Stories from Season 2026</span></div><div class="stat"><strong>∞</strong><span>Cups of tea at the pavilion</span></div></div></div></div></section>
+<p class="motto">Adhaerere Maneat</p></div>
+<div class="stats reveal"><div class="stat"><strong>Tigoni</strong><span>Our home ground</span></div><div class="stat"><strong>1st</strong><span>Rhino Cup tour, Nanyuki</span></div><div class="stat"><strong>3</strong><span>Stories from Season 2026</span></div><div class="stat"><strong>20</strong><span>Stickies, officials and characters</span></div></div></div></div></section>
 <section class="band"><div class="wrap">{sec_head("Where we play","From the mist to the mountain")}
-<div class="cards3 reveal"><a class="card" href="misty-game.html"><span class="eyebrow">Home · Tigoni</span><h3>The mist of Tigoni</h3><p>Our home ground, high in the Kenyan highlands, with a pavilion stove that has never let us down.</p></a>
-<a class="card" href="rhino-cup.html"><span class="eyebrow">Away · Nanyuki</span><h3>Rhino Cup</h3><p>Our first club tour, beneath Mount Kenya.</p></a>
-<a class="card" href="fixtures.html"><span class="eyebrow">Next · Limuru</span><h3>Mutaiga Country Club</h3><p>Saturday 31 October 2026 at Limuru Grounds.</p></a></div></div></section>
+<div class="trio reveal">
+<a class="tile" href="misty-game.html"><img src="assets/misty/pitch.jpg" alt="The marked pitch at Tigoni disappearing into the mist"><div><span class="eyebrow">Home · Tigoni</span><h3>The mist of Tigoni</h3><p>Our home ground, high in the Kenyan highlands, with a pavilion stove that has never let us down.</p></div></a>
+<a class="tile" href="rhino-cup.html"><img src="assets/rhino/wide-match.jpg" alt="Tournament cricket on the golden plains outside Nanyuki"><div><span class="eyebrow">Away · Nanyuki</span><h3>The Rhino Cup</h3><p>Our first club tour, beneath Mount Kenya.</p></div></a>
+<a class="tile" href="fixtures.html"><img src="assets/misty/action.jpg" alt="Stickies in action as the mist lifts"><div><span class="eyebrow">Next · Limuru</span><h3>Mutaiga Country Club</h3><p>Saturday 31 October 2026 at Limuru Grounds.</p></div></a></div></div></section>
 <section style="padding:20px 0 90px"><div class="wrap reveal"><blockquote>“Proper cricket. Questionable judgement. Excellent company.”</blockquote></div></section>
 ''' + FOOT)
 
@@ -112,7 +112,13 @@ write("season.html", head("Season 2026","season.html") + hero("Match reports","S
 <section><div class="wrap"><div class="grid-news reveal">{S_MIST}{S_MED}{S_RHINO}</div></div></section>''' + FOOT)
 
 # ---------- reports
-def fig(src,cap): return f'<figure><img src="{src}" alt="{cap}" loading="lazy"><figcaption>{cap}</figcaption></figure>'
+def fig(src,cap):
+    from PIL import Image
+    try:
+        w,h = Image.open(os.path.join(os.path.dirname(os.path.dirname(os.path.abspath(__file__))),src)).size
+    except Exception: w,h = 4,3
+    cls = ' class="p"' if h > w else ''
+    return f'<figure{cls}><img src="{src}" alt="{cap}" loading="lazy"><figcaption>{cap}</figcaption></figure>'
 def report(fn,cur,eb,title,sub,hero_img,facts,body):
     f = "".join(f"<div><b>{k}</b>{v}</div>" for k,v in facts)
     write(fn, head(title) + hero(eb,title,sub,hero_img,'<a href="season.html">Season 2026</a> / '+title) + f'<section><div class="wrap"><div class="facts article" style="max-width:1000px;margin-left:auto;margin-right:auto">{f}</div><div class="article">{body}</div></div></section>' + FOOT)
@@ -125,13 +131,13 @@ report("misty-game.html","","Match report · 11 July 2026","Sticky Wickets in th
  "<h2>Off the field</h2><p>The pavilion stove, the sandwiches and the tea were the real stars, and the match earned a five-star tea rating.</p>"+fig("assets/misty/fireplace.jpg","The most productive players of the afternoon")+fig("assets/misty/lunch.jpg","Tea, lunch and tactical observation")+fig("assets/misty/players.jpg","The Stickies after the match")+fig("assets/misty/whitecap.jpg","A White Cap overlooking the misty field")+
  "<p><em>The complete scorecard is still to come.</em></p>")
 
-report("medics-match.html","","Match report · Season 2026","The Medics Match","A clinical performance, glorious sunshine and excellent company. The Medics brought the precision; the Stickies brought the optimism.","assets/medics/photo-15.jpg",
+report("medics-match.html","","Match report · Season 2026","The Medics Match","A clinical performance, glorious sunshine and excellent company. The Medics brought the precision; the Stickies brought the optimism.",None,
  [("Opponent","The Medics"),("Venue","Tigoni"),("Conditions","Glorious sunshine")],
  "<p>The Medics came to Tigoni on a sunny afternoon and were far more precise than the Stickies, winning convincingly. Our spirited but outmatched performance was met with the usual self-deprecating humour.</p>"+fig("assets/medics/photo-15.jpg","A glorious afternoon for cricket")+
  "<p>Hats off to the opposition for their play and for their company.</p>"+fig("assets/medics/photo-4.jpg","Gathered by the pavilion in the sunshine")+fig("assets/medics/photo-16.jpg","A bowler in full delivery stride")+fig("assets/medics/photo-22.jpg","A batter taking guard")+fig("assets/medics/photo-24.jpg","Playing a shot on the sunny pitch")+
  "<h2>The view from the sidelines</h2><p>Afterwards the Medics played an extra match among themselves while the Stickies watched from the sidelines, chairs and all.</p>"+fig("assets/medics/photo-6.jpg","The view from the sidelines")+fig("assets/medics/photo-9.jpg","Players gathered on the outfield")+fig("assets/medics/photo-12.jpg","Conferring between deliveries")+fig("assets/medics/photo-20.jpg","Two batters preparing beside the pavilion"))
 
-report("rhino-cup.html","","First club tour · June 2026","Our First Rhino Cup","Sticky Wickets headed north to Nanyuki for tournament cricket, enormous skies and the beginning of a new tradition.","assets/rhino/scoreboard-mountain.jpg",
+report("rhino-cup.html","","First club tour · June 2026","Our First Rhino Cup","Sticky Wickets headed north to Nanyuki for tournament cricket, enormous skies and the beginning of a new tradition.",None,
  [("Tour","First club tour"),("When","June 2026"),("Where","Nanyuki")],
  "<p>Sticky Wickets' first club tour took us to Nanyuki for our first appearance at the Rhino Cup. The matches were played on highland grass with Mount Kenya in the background.</p>"+fig("assets/rhino/wide-match.jpg","Tournament cricket on the high plains outside Nanyuki")+fig("assets/rhino/nutty-mountain.jpg","Mount Kenya in the background")+fig("assets/rhino/running.jpg","Returning from the field in good spirits")+
  "<p><em>The full match report, results and opponent details are still to be written and will be added as they arrive.</em></p>"+

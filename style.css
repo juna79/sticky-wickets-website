@@ -231,3 +231,25 @@ button.player:focus-visible,.bio-x:focus-visible,.bio-nav button:focus-visible{o
 .bio-nav button{background:none;border:1px solid var(--line);color:var(--cream);font:600 .85rem Inter,sans-serif;padding:10px 18px;border-radius:99px;cursor:pointer;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
 .bio-nav button:hover{border-color:var(--gold);color:var(--gold2)}
 @media(max-width:600px){.bio-bg{padding:8px}.bio{max-height:calc(100dvh - 16px);border-radius:18px}.bio-head{gap:14px;padding:18px 14px 14px 18px}.bio-ph{width:64px;height:64px}.bio-ph span{font-size:1.7rem}.bio-body{padding:18px 18px 4px}.bio-nav{padding:12px 18px 16px}.bio-nav button{padding:9px 12px;font-size:.78rem}}
+
+/* home hero (original artwork) */
+.sr{position:absolute;width:1px;height:1px;overflow:hidden;clip:rect(0 0 0 0);white-space:nowrap}
+.hero2{position:relative;background:#14110c;line-height:0}
+.hero2 img{width:100%;height:auto;display:block}
+.hero2::before{content:"";position:absolute;inset:0 0 auto 0;height:130px;background:linear-gradient(180deg,rgba(8,42,32,.92),transparent);z-index:1}
+.hero2::after{content:"";position:absolute;inset:auto 0 0 0;height:22px;background:linear-gradient(0deg,var(--ink),transparent)}
+.strip.home{background:var(--ink)}
+.strip.home .cta{display:flex;gap:14px;flex-wrap:wrap}
+.strip.home .nm{display:flex;gap:16px;align-items:center}
+@media(max-width:700px){.strip.home .wrap{flex-direction:column;align-items:flex-start}.hero2::before{height:90px}}
+/* club page */
+.motto{font-family:'Barlow Condensed','Arial Narrow',sans-serif;font-style:italic;font-weight:600;font-size:1.6rem;color:var(--gold2)}
+.trio{display:grid;grid-template-columns:repeat(3,1fr);gap:20px}
+.tile{display:flex;flex-direction:column;background:var(--card);border:1px solid var(--line);border-radius:var(--r);overflow:hidden;transition:.2s}
+.tile:hover{border-color:var(--gold);transform:translateY(-4px)}
+.tile img{width:100%;aspect-ratio:4/3;object-fit:cover;object-position:center 28%}
+.tile div{padding:24px 26px 28px}.tile h3{font-size:1.8rem;margin:8px 0 8px}.tile p{color:#c1c8bb}
+@media(max-width:900px){.trio{grid-template-columns:1fr}}
+/* report figures: portrait photos stay readable */
+.article figure.p{max-width:440px;margin:36px auto}
+.article figure.p img{max-height:70vh;object-fit:cover}
