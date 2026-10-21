@@ -1,43 +1,65 @@
 [
  {
+  "id": "rory-green",
   "name": "Rory Green",
+  "subtitle": "All-rounder",
+  "cardLabel": "All-rounder",
   "tag": "",
-  "role": "All-rounder",
+  "initials": "RG",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Farmer, former Kenya rally champion and annoyingly good at bowls, Rory has spent years collecting sporting talents without discovering how to put his fucking phone down. If he’s stood at the boundary talking, it’ll be Kenga or Denise. We’re hoping to have him available for a full over soon.",
-   "Known as the Green Machine, Line Master and, more affectionately, Green Bitch, Rory brings experience, ability and a very specific drinks management problem.",
+   "Farmer, former Kenya rally champion and annoyingly good at bowls, Rory has spent years collecting sporting talents without discovering how to put his phone down. If he’s stood at the boundary talking, it’ll be Kenga or Denise. We’re hoping to have him available for a full over soon.",
+   "Known as the Green Machine and Line Master, Rory brings experience, ability and a very specific drinks management problem.",
    "Whiskey must be introduced gradually. Start him too early and you’ll find him installed in Rory’s Corner while a search party works through the bushes looking for his glasses.",
    "For a man who once navigated rally stages at speed, getting himself home with all his belongings remains a surprisingly technical challenge."
   ]
  },
  {
+  "id": "daniel-hinds",
   "name": "Daniel Hinds",
+  "subtitle": "All-rounder",
+  "cardLabel": "All-rounder",
   "tag": "",
-  "role": "All-rounder",
+  "initials": "DH",
+  "photo": null,
+  "group": "players",
   "paras": [
    "An electrical engineer by trade, Daniel can sort out your wiring but is currently struggling to get his own arm connected properly.",
    "Sidelined with a shoulder injury, the King of Bud has spent years telling everyone there’s nothing wrong with enjoying a joint. Turns out one of his disagrees.",
    "His recovery programme remains unclear, although he’s taking the relaxation part extremely seriously. Ask him how the shoulder’s coming along and you’ll get a detailed update. Ask him to pass the joint and suddenly there’s a perfectly serviceable range of movement.",
-   "We wish him a speedy return. Until then, he remains the only all-rounder whose main contribution is getting everyone around him absolutely fucking nowhere."
+   "We wish him a speedy return. Until then, he remains the only all-rounder whose main contribution is getting everyone around him absolutely nowhere."
   ]
  },
  {
+  "id": "jezza-cordingley",
   "name": "Jezza Cordingley",
+  "subtitle": "Captain & All-rounder",
+  "cardLabel": "Captain & All-rounder",
   "tag": "C",
-  "role": "Captain & All-rounder",
+  "initials": "JC",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Jezza runs Cropnuts and claims to be an agronomist, although the team understands that all actual agricultural knowledge resides with Maina, his gardener. Jezza handles the important technical work, such as telling people he’s an agronomist.",
-   "A good all-rounder and a genuinely good skipper, he’d be a tremendous asset to any side that could establish his whereabouts.",
-   "Usually in Gilgil with the kids, Kilifi, or away for work, Jezza has pioneered a style of captaincy in which availability is strictly theoretical. The team sheet says “(C)”. At this stage we assume it stands for “Couldn’t make it”.",
-   "On the rare occasion he does turn up, we’re delighted to see him. Partly for his leadership, mainly because we can finally stop the fucking headcount. For questions about the pitch, please contact Maina."
+   "Jezza is an agronomist, although any questions about his own garden are immediately referred to Maina, his gardener. Apparently, even the experts know when to call in an expert.",
+   "A good all-rounder and a proper skipper, Jezza’s only real weakness is being somewhere else.",
+   "Gilgil with the kids. Kilifi. Away for work. His availability updates regularly read like an itinerary for a holiday none of us were invited on.",
+   "The team sheet says “(C)”. At this stage, we assume it stands for “Couldn’t make it”.",
+   "When he does turn up, the team is better for it. He knows the game, leads the boys well and reminds us why we keep giving the job to a man whose whereabouts require a separate WhatsApp group.",
+   "For questions about the pitch, we’d still like Maina’s opinion."
   ]
  },
  {
+  "id": "angus-miller",
   "name": "Angus Miller",
+  "subtitle": "Wicketkeeper & Club Cricket Secretary",
+  "cardLabel": "Wicketkeeper & Club Cricket Secretary",
   "tag": "WK",
-  "role": "Wicketkeeper & Club Cricket Secretary",
+  "initials": "AM",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Angus has an MBE, which suggests the Palace’s background checks could do with a fucking review.",
+   "Angus has an MBE, which suggests the Palace’s background checks could do with a review.",
    "Our club cricket secretary has organised practically everything for us, despite being slowly broken by a squad of grown men incapable of confirming whether they’re coming. Every answered question produces six more. Somewhere in the middle of it all, Angus is expected to play cricket.",
    "Fortunately, he’s a proper party animal, so exhaustion only appears to affect the admin. His wife Els deals with the rest, and frankly we think the honour went to the wrong person.",
    "Behind the stumps, Angus brings experience, commitment and the growing suspicion that Liam is after his job. We mention it regularly. He’s already got enough to worry about, so naturally we keep going.",
@@ -45,192 +67,272 @@
   ]
  },
  {
+  "id": "kyle-denning",
   "name": "Kyle Denning",
+  "subtitle": "K Nilla — Our American Correspondent",
+  "cardLabel": "K Nilla — Our American Correspondent",
   "tag": "",
-  "role": "The Gummy King",
+  "initials": "KD",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Kyle is the vice chairman of Limuru Country Club, further evidence that nobody checks what these people get up to before giving them positions of responsibility.",
-   "An American in a cricket team, K Nilla is still waiting for someone to explain why you can hit the ball behind you, stop for tea and play for five days without anyone winning. To be fair, he has a point.",
-   "Known as the Gummy King, Kyle takes his confectionery considerably more seriously than most of us take our cricket. If he offers you one, establish how much you’ve got planned for the afternoon before accepting.",
-   "We’re still working out his best position in the side. He’s waiting for the coach to put him in at quarterback, so there’s some fucking distance to go."
+   "Vice chairman of Limuru Country Club, Kyle brings a bit of authority to proceedings. Unfortunately, being American means he occasionally needs those proceedings explained.",
+   "K Nilla is still coming to terms with a sport where you can hit the ball behind you, stop for tea and play for five days without anyone winning. To be fair, when he puts it like that, we sound ridiculous.",
+   "We’ve explained that there are no home runs, he doesn’t get three strikes, and the tea break is a serious part of the fixture.",
+   "He’s taking it all remarkably well. We’re saving the explanation of LBW for a day when neither of us has anywhere to be."
   ]
  },
  {
+  "id": "brian-adkins",
   "name": "Brian Adkins",
+  "subtitle": "Occasionally Ryan",
+  "cardLabel": "Occasionally Ryan",
   "tag": "",
-  "role": "Occasionally Ryan",
+  "initials": "BA",
+  "photo": null,
+  "group": "players",
   "paras": [
    "Brian works in conservation, which is admirable considering how much time the team spends trying to release his own wild animal.",
    "That animal is called Ryan.",
    "Brian is the respectable American you can introduce to people. Ryan is the reason you might have to contact those people the following morning.",
    "We’re always pleased when Brian makes the squad, but we do quietly hope Ryan’s available too. His emergence is one of the few wildlife sightings guaranteed to get the entire team excited.",
    "Professionally, Brian believes in protecting endangered species. Socially, we believe Ryan deserves a larger habitat and considerably less supervision.",
-   "If Brian tells you he’s having a quiet one, stick around. There may be a fucking sighting."
+   "If Brian tells you he’s having a quiet one, stick around. There may be a sighting."
   ]
  },
  {
+  "id": "jamie-cocker",
   "name": "Jamie Cocker",
+  "subtitle": "All-rounder",
+  "cardLabel": "All-rounder",
   "tag": "",
-  "role": "All-rounder",
+  "initials": "JC",
+  "photo": null,
+  "group": "players",
   "paras": [
    "One of our best players, Jamie can bat, bowl and, under a very specific set of circumstances, catch.",
    "His finest moment came when he took a one-handed catch with a beer in the other hand and a spliff in his mouth. An outstanding piece of fielding that has bought him years of completely unjustified forgiveness for everything he’s dropped since.",
-   "Give him two free hands and his full attention, however, and suddenly it’s a much more complicated fucking exercise.",
+   "Give him two free hands and his full attention, however, and suddenly it’s a much more complicated exercise.",
    "Jamie brings proper ability to the side and can change a game with bat or ball. In the field, we’re considering supplying him with a beer and a spliff as standard equipment.",
    "We’ve tried asking him to concentrate. Apparently that was the problem."
   ]
  },
  {
+  "id": "juna-vidyarthi",
   "name": "Juna Vidyarthi",
+  "subtitle": "Fine Master & Volume Control Issue",
+  "cardLabel": "Fine Master & Volume Control Issue",
   "tag": "",
-  "role": "Fine Master & Volume Control Issue",
+  "initials": "JV",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Juna is the team’s fine master, which means the loudest bloke in the squad has somehow been given another reason to open his fucking mouth.",
+   "Juna is the team’s fine master, which means the loudest bloke in the squad has somehow been given another reason to open his mouth.",
    "Every offence comes with a fine. Complaining about the fine comes with a speech. By the time he’s finished explaining it, most people would happily pay double.",
    "At the crease, Juna plays with the patience of a Test batsman and absolutely none of the scheduling awareness. We’ve got one afternoon, mate. You’re allowed to hit it.",
    "He picks up a couple of wickets now and then, each celebrated at a volume suggesting he’s just bowled Kenya into a World Cup final.",
-   "Off the pitch, he gets through Bal[o]zis considerably faster than he gets through overs. If we could persuade him to bat with the same urgency he orders his next beer, we’d have a proper fucking player."
+   "Off the pitch, he gets through Balozis considerably faster than he gets through overs. If we could persuade him to bat with the same urgency he orders his next beer, we’d have a proper effing player."
   ]
  },
  {
+  "id": "seb-mckinley",
   "name": "Seb McKinley",
+  "subtitle": "Original Model",
+  "cardLabel": "Original Model",
   "tag": "",
-  "role": "Original Model",
+  "initials": "SM",
+  "photo": null,
+  "group": "players",
   "paras": [
    "Seb splits his time between Kenya and the UK, where Ali and the kids are based. This gives him two countries in which to be unnecessarily competitive.",
    "Seb wants to win. Desperately. Unfortunately, his ability hasn’t always shown the same commitment.",
    "A friendly game is never entirely friendly once Seb gets involved. The rest of us may be having a pleasant afternoon, but he’s treating it as a selection trial for a country that hasn’t called.",
    "To help with the running, bowling and general physical requirements of cricket, we’ve brought in another Seb. Younger model. Fewer miles. Still under warranty.",
-   "Original Seb remains an important part of the squad, providing experience, fierce determination and an increasingly personal interest in whether New Seb is actually any fucking good."
+   "Original Seb remains an important part of the squad, providing experience, fierce determination and an increasingly personal interest in whether New Seb is actually any good."
   ]
  },
  {
+  "id": "nadeem-popat",
   "name": "Nadeem Popat",
+  "subtitle": "Subject to Laura’s Approval",
+  "cardLabel": "Subject to Laura’s Approval",
   "tag": "",
-  "role": "Subject to Laura’s Approval",
+  "initials": "NP",
+  "photo": null,
+  "group": "players",
   "paras": [
    "A travel agent by trade, Nadeem can get you almost anywhere in the world. Getting himself to cricket requires written clearance from Laura.",
    "Short, balding and increasingly reliant on stories about how good he was at sport in his youth, Nadeem now plays golf, where you can blame the clubs and nobody expects you to run.",
    "His brothers are much better at sport, which is unfortunate, because we appear to have booked the wrong Popat. You’d expect a travel agent to understand the importance of checking exactly what you’re getting.",
    "All squad invitations should be addressed to Laura, the big boss. Nadeem is welcome to express an interest, but this should never be mistaken for confirmation.",
-   "We look forward to having him with us, subject to availability, clearance and whatever fucking terms Laura sets."
+   "We look forward to having him with us, subject to availability, clearance and whatever terms Laura sets."
   ]
  },
  {
+  "id": "max-green",
   "name": "Max Green",
+  "subtitle": "All-rounder, Treasurer & Rory’s Legal Guardian",
+  "cardLabel": "All-rounder, Treasurer & Rory’s Legal Guardian",
   "tag": "",
-  "role": "All-rounder, Treasurer & Rory’s Legal Guardian",
+  "initials": "MG",
+  "photo": null,
+  "group": "players",
   "paras": [
    "Max is Rory’s son and our team treasurer, meaning he’s responsible for both the squad’s finances and making sure his father leaves with his glasses.",
-   "He now works for Kyle at Kentaste in Ukunda, so we rarely see him. This hasn’t stopped him regularly reminding us we’re shit without him. Conveniently, his own performances remain unavailable for comparison.",
+   "He now works for Kyle at Kentaste in Ukunda, so we rarely see him. This hasn’t stopped him regularly reminding us we’re hopeless without him. Conveniently, his own performances remain unavailable for comparison.",
    "Young, full of banter and absolutely convinced he’s the answer to our problems, Max brings some much-needed youth to a squad that increasingly requires a medical questionnaire.",
-   "His real responsibility, however, is supervising Rory. Most young players arrive hoping to learn from their fathers. Max arrives checking how many whiskies his has had and whether anyone’s searched the fucking bushes.",
+   "His real responsibility, however, is supervising Rory. Most young players arrive hoping to learn from their fathers. Max arrives checking how many whiskies his has had and whether anyone’s searched the bushes.",
    "We’d love to have him around more often. Rory clearly needs the adult supervision."
   ]
  },
  {
+  "id": "paris-foot",
   "name": "Paris Foot",
+  "subtitle": "Chai Walla & Occasional Attendee",
+  "cardLabel": "Chai Walla & Occasional Attendee",
   "tag": "",
-  "role": "Chai Walla & Occasional Attendee",
+  "initials": "PF",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Paris makes excellent sandwiches, which would be a tremendous contribution if he could deliver them before everyone’s fucking gone home.",
+   "Paris makes excellent sandwiches, which would be a tremendous contribution if he could deliver them before everyone’s gone home.",
    "Known as Chai Walla, he operates on a timetable understood only by himself. Any confirmed arrival time should be treated as the start of negotiations.",
-   "His motorbike accident gave the boys far too much material about his surname. A horrible experience, but we can all agree it could have been considerably worse if his name had been Paris Cock.",
-   "When available, Paris can usually be found fishing, sailing across the Atlantic or in his favourite place on earth: Karen.",
+   "Paris lost his foot in a motorbike accident, but thankfully the surgeons managed to sew it back on. We’re delighted he’s back on both feet. We’d just like them pointed towards the cricket ground a little more often.",
+   "Despite having both feet available again, getting him to the ground remains a challenge. He’s usually fishing, sailing across the Atlantic or in his favourite place on earth: Karen.",
    "He spends so much time there that we’re considering arranging a transfer. Karen get their man, we stop waiting for him, and Paris can finally be late for somebody else."
   ]
  },
  {
+  "id": "ross-samuels",
   "name": "Ross Samuels",
+  "subtitle": "Slip Fielder & Hamstring Preservation Officer",
+  "cardLabel": "Slip Fielder & Hamstring Preservation Officer",
   "tag": "",
-  "role": "Slip Fielder & Hamstring Preservation Officer",
+  "initials": "RS",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Based in Gigiri, Ross can usually be found in the slips, where he’s carefully calculated that the ball might come to him and he probably won’t have to fucking chase it.",
+   "Based in Gigiri, Ross can usually be found in the slips, where he’s carefully calculated that the ball might come to him and he probably won’t have to chase it.",
    "His entire fielding strategy is built around not pulling a hammy. Captains have tried moving him, but apparently anything beyond second slip requires a medical opinion.",
    "Fortunately, his girlfriend Vici now ensures he’s fully “stretched out” before every match. This is comfortably the most thorough preparation anyone in the squad receives, and Ross seems very committed to maintaining the arrangement.",
    "We can only hope he reciprocates. Vici’s putting in a proper shift, and it would be disappointing to discover he’s equally reluctant to put in any effort at home."
   ]
  },
  {
+  "id": "brian-dempsey",
   "name": "Brian Dempsey",
+  "subtitle": "Style Yet to Be Confirmed",
+  "cardLabel": "Style Yet to Be Confirmed",
   "tag": "",
-  "role": "Style Yet to Be Confirmed",
+  "initials": "BD",
+  "photo": null,
+  "group": "players",
   "paras": [
-   "Another American in the squad, Brian tries hard when he turns up. We’d love to offer a more detailed assessment, but the sample size remains fucking tiny.",
+   "Another American in the squad, Brian tries hard when he turns up. We’d love to offer a more detailed assessment, but the sample size remains tiny.",
    "For his 40th birthday, Brian decided to run up Mount Kilimanjaro. Most people book a nice lunch. Brian chose altitude sickness and a physical crisis.",
    "It proved he can make an extraordinary effort to get somewhere, which makes his continued absence on Saturdays slightly harder to explain.",
    "Between his startup Power, his wife and the totos, Brian has plenty on his plate. Somehow, though, Anza bar appears to have cracked the availability problem that continues to defeat our captain.",
    "His batting and bowling styles remain largely undocumented. For a more reliable sighting, we suggest checking Anza.",
-   "He’s run up Kilimanjaro. We’re still trying to get him to run a fucking single."
+   "He’s run up Kilimanjaro. We’re still trying to get him to run a single."
   ]
  },
  {
+  "id": "ted-pantone",
   "name": "Ted Pantone",
+  "subtitle": "Big Hitter & Catering Connection",
+  "cardLabel": "Big Hitter & Catering Connection",
   "tag": "",
-  "role": "Big Hitter & Catering Connection",
+  "initials": "TP",
+  "photo": null,
+  "group": "players",
   "paras": [
    "Yet another American, Ted comes with two daughters who spoil the team with cakes and Daddy’s favourite cookies. His place in the squad is secure, provided the baking continues.",
    "Ted enjoys poker, whisky and cigars, and appears to be preparing for retirement as a minor character in a Las Vegas crime film.",
    "With the bat, he’s a big hitter when he connects. Unfortunately, he still thinks he’s playing baseball, so there’s occasionally a considerable disagreement between where the ball is and where Ted feels it ought to be.",
    "We’ve explained that he doesn’t get three strikes. He considers this a fairly unreasonable restriction.",
-   "On his day, Ted can clear the boundary with ease. On the other days, the girls have usually brought something nice, so it’s never a completely wasted fucking afternoon."
+   "On his day, Ted can clear the boundary with ease. On the other days, the girls have usually brought something nice, so it’s never a completely wasted afternoon."
   ]
  },
  {
+  "id": "hielko-bartlema",
   "name": "Hielko Bartlema",
+  "subtitle": "Dutch Representative & Part-time Fielder",
+  "cardLabel": "Dutch Representative & Part-time Fielder",
   "tag": "",
-  "role": "Dutch Representative & Part-time Fielder",
+  "initials": "HB",
+  "photo": null,
+  "group": "players",
   "paras": [
    "Dutch, bald and improving with every game, Hielko is still learning cricket. His wife Annick is our scorer, so at least one person in the household knows exactly what’s going on.",
    "His progress is regularly interrupted by man flu, a devastating condition that appears to leave him well enough to attend but occasionally too fragile to field.",
-   "Recovery usually takes place on the boundary, where several overs of conversation with his Dutch guests can work absolute fucking wonders.",
+   "Recovery usually takes place on the boundary, where several overs of conversation with his Dutch guests can work absolute wonders.",
    "We’re delighted he brings people along. We’d just prefer he didn’t abandon his position to host a small Netherlands embassy reception halfway through an innings.",
    "Hielko, mate, if you want a proper catch-up, invite them home. Annick’s keeping score, we’re a fielder short, and this is quite literally just not cricket."
   ]
  },
  {
+  "id": "liam-omeara",
   "name": "Liam O’Meara",
+  "subtitle": "Lord Liam",
+  "cardLabel": "Lord Liam",
   "tag": "",
-  "role": "Lord Liam",
+  "initials": "LO",
+  "photo": null,
+  "group": "players",
   "paras": [
    "A proper Englishman, Lord Liam brings etiquette, good manners and the firm belief that Angus’s wicketkeeping gloves would be better off in his possession.",
    "He hits a big ball and bowls well, which is particularly impressive considering he still uses a bat apparently issued to him when he was eight. We’re unsure whether it’s sentimental value or he’s waiting for his parents to buy him the next size up.",
-   "For all his breeding, Liam consistently disappears before fines. He spends the afternoon enthusiastically earning them, then fucks off before we can discuss his achievements.",
+   "For all his breeding, Liam consistently disappears before fines. He spends the afternoon enthusiastically earning them, then makes a remarkably well-timed exit before we can discuss his achievements.",
    "His Lordship is welcome to pursue the wicketkeeping position. We’d just appreciate him remaining on the premises long enough to hear what the rest of us thought of his performance."
   ]
  },
  {
-  "name": "Felix Rigg",
-  "tag": "Umpire",
-  "role": "Umpire",
+  "id": "felix",
+  "name": "Felix",
+  "subtitle": "Umpire & Wide Denier",
+  "cardLabel": "Umpire",
+  "tag": "",
+  "initials": "F",
+  "photo": null,
+  "group": "officials",
   "paras": [
    "A jazz conductor by trade, Felix turns up to umpire in a suit, giving our Saturday cricket considerably more dignity than it deserves.",
-   "He’s used to directing an ensemble with his arms, which makes his complete refusal to extend them for a fucking wide particularly difficult to understand.",
+   "He’s used to directing an ensemble with his arms, which makes his complete refusal to extend them for a wide particularly difficult to understand.",
    "A ball can pass three feet down leg and Felix will watch it go with the composure of a man enjoying a perfectly acceptable passage of play. Apparently, we’re all expected to improvise.",
    "Fortunately, he and his wife Berry make outstanding coronation chicken sandwiches. This has bought him a level of protection from criticism that the rest of the umpiring profession can only dream of.",
    "Immaculately dressed, exceptionally well catered and determined to finish the innings without signalling a single wide."
   ]
  },
  {
-  "name": "Tony Clegg Butt",
-  "tag": "Umpire",
-  "role": "Still Turning Up",
+  "id": "tony",
+  "name": "Tony",
+  "subtitle": "Still Turning Up",
+  "cardLabel": "Team supporter",
+  "tag": "",
+  "initials": "T",
+  "photo": null,
+  "group": "officials",
   "paras": [
    "Tony had a heart attack last year and still makes it down to support the team whenever he’s around, which rather undermines everyone else’s excuses about being a bit tired.",
    "We even persuaded him to play when the Stickes played the Stickes. A lovely idea, right up until someone remembered we were supposed to be playing tip and run.",
-   "With no defibrillator on the field, we felt the compulsory sprinting element deserved a fucking rethink.",
+   "With no defibrillator on the field, we felt the compulsory sprinting element deserved a rethink.",
    "The rules were amended, Tony took his place, and the rest of us briefly experienced what it’s like to make a sensible decision.",
    "It’s always good to have him around. We’d just prefer his next contribution to the club’s history didn’t require an incident report."
   ]
  },
  {
-  "name": "Annick Deridder",
-  "tag": "Scorer",
-  "role": "Scorer & Hielko Management",
+  "id": "annick",
+  "name": "Annick",
+  "subtitle": "Scorer & Hielko Management",
+  "cardLabel": "Scorer",
+  "tag": "",
+  "initials": "A",
+  "photo": null,
+  "group": "officials",
   "paras": [
    "Annick turns up with her pug and voluntarily spends a Saturday trying to make sense of our cricket. She’s learned how to score for us, which is a tremendous commitment to documenting something most of us would prefer everyone forgot.",
    "Married to Hielko, she’s already experienced in keeping track of a man who occasionally wanders off without contributing any runs.",
-   "While he’s on the boundary conducting Dutch diplomatic business or recovering from another devastating bout of man flu, Annick is actually doing her fucking job.",
+   "While he’s on the boundary conducting Dutch diplomatic business or recovering from another devastating bout of man flu, Annick is quietly keeping the whole thing together.",
    "A true sport and an essential part of the team, she deserves our thanks for learning the scoring, putting up with the boys and taking Hielko home afterwards.",
    "The pug, so far, has given her considerably less trouble."
   ]

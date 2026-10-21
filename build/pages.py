@@ -3,11 +3,9 @@ OUT = sys.argv[1]
 NAV = [("club.html","The Club"),("fixtures.html","Fixtures"),("season.html","Season 2026"),("team.html","The Team"),("gallery.html","Gallery"),("join.html","Join")]
 import json
 BIOS = json.load(open(os.path.join(os.path.dirname(os.path.abspath(__file__)),"bios.json"),encoding="utf-8"))
-_o = {"Felix Rigg","Tony Clegg Butt","Annick Deridder"}
-_first = ["Jezza Cordingley","Angus Miller"]
-_ord = [x for n in _first for x in BIOS if x["name"]==n] + [x for x in BIOS if x["name"] not in _first and x["name"] not in _o]
-SQUAD = [(x["name"],x["role"],1 if x["name"] in _first else 0) for x in _ord]
-OFFICIALS = [(x["name"],x["role"]) for x in BIOS if x["name"] in _o]
+SQUAD = [x for x in BIOS if x["group"]=="players"]
+OFFICIALS = [x for x in BIOS if x["group"]=="officials"]
+ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 def head(title, cur=""):
     items = "".join(f'<li><a href="{h}"{" class=cur" if h==cur else ""}>{n}</a></li>' for h,n in NAV)
@@ -35,9 +33,16 @@ def hero(eyebrow, title, sub, img=None, crumbs=""):
 def write(name, html):
     open(os.path.join(OUT,name),"w").write(html)
 
-def player_card(n,r,cap=0):
-    ini="".join(w[0] for w in n.split()[:2])
-    return f'<button type="button" class="player{" cap" if cap else ""}" data-bio="{n}" aria-label="Read the bio of {n}"><div class="photo"><span class="ini">{ini}</span></div><div class="info"><h3>{n}</h3><div class="role">{r}</div><span class="rd">Read bio →</span></div></button>'
+def player_card(x):
+    photo = x.get("photo")
+    if photo and os.path.exists(os.path.join(ROOT, photo)):
+        ph = f'<img src="{photo}" alt="{x["name"]}" onerror="this.remove()">'
+    else:
+        ph = ''
+    tag = f'<span class="tagc">{x["tag"]}</span>' if x["tag"] else ''
+    return (f'<button type="button" class="player{" cap" if x["tag"]=="C" else ""}" data-bio="{x["id"]}" aria-haspopup="dialog" aria-label="Read bio: {x["name"]}">'
+            f'<div class="photo"><span class="ini">{x["initials"]}</span>{ph}{tag}</div>'
+            f'<div class="info"><h3>{x["name"]}</h3><div class="role">{x["cardLabel"]}</div><span class="rd">Read bio →</span></div></button>')
 
 NEXT = '<div class="date"><b>31</b><span>Oct</span></div><div><div class="vs">Sticky Wickets v Mutaiga Country Club</div><div class="sub">Saturday 31 October 2026 · Limuru Grounds · Start time TBC</div></div><span class="tag">Upcoming</span>'
 PAST = '''<a class="match" href="medics-match.html"><div class="date"><b>2026</b><span>Season</span></div><div><div class="vs">Sticky Wickets v The Medics</div><div class="sub">Tigoni · A clinical performance in glorious sunshine</div></div><span class="tag win">Match report →</span></a>
@@ -97,9 +102,9 @@ write("fixtures.html", head("Fixtures","fixtures.html") + hero("Season 2026","Fi
 ''' + FOOT)
 
 # ---------- team
-write("team.html", head("The Team","team.html") + hero("The squad","Meet the team","Click a name to read the bio. Photos coming soon.") + f'''
-<section><div class="wrap"><div class="group-title">Players</div><div class="team tight reveal">{"".join(player_card(*p) for p in SQUAD)}</div>
-<div class="group-title">Officials</div><div class="team tight reveal">{"".join(player_card(n,r) for n,r in OFFICIALS)}</div></div></section>
+write("team.html", head("The Team","team.html") + hero("The squad","Meet the team","Tap a name to read the bio. Photos coming soon.") + f'''
+<section><div class="wrap"><div class="group-title">Players</div><div class="team tight reveal">{"".join(player_card(x) for x in SQUAD)}</div>
+<div class="group-title">Club characters</div><div class="team tight reveal">{"".join(player_card(x) for x in OFFICIALS)}</div></div></section>
 ''' + FOOT)
 
 # ---------- season

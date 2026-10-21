@@ -33,9 +33,13 @@ header = re.sub(r'href="([a-z-]+)\.html"', lambda m: 'href="#%s"' % PAGES.get(m.
 header = header.replace('class=cur', '').replace('src="assets/logo.png"', 'data-src="assets/logo.png"')
 header = header.replace('href="#home"', 'href="#home"')
 imgs["assets/logo.png"] = None
+_b = json.load(open(os.path.join(ROOT, "build", "bios.json"), encoding="utf-8"))
+for _x in _b:
+    if _x.get("photo") and os.path.exists(os.path.join(ROOT, _x["photo"])): imgs[_x["photo"]] = None
+    else: _x["photo"] = None
 for p in imgs: imgs[p] = enc(p)
-bios = json.load(open(os.path.join(ROOT, "build", "bios.json"), encoding="utf-8"))
-modal = '<div class="bio-bg" id="bioBg" aria-hidden="true"><div class="bio" role="dialog" aria-modal="true" aria-labelledby="bioName"><button class="bio-x" id="bioX" aria-label="Close bio">\u00d7</button><div class="bio-top"><div class="bio-ph" id="bioPh"></div><div><h2 id="bioName"></h2><div class="sub" id="bioSub"></div></div></div><div class="bio-body" id="bioBody"></div><div class="bio-nav"><button type="button" id="bioPrev"></button><button type="button" id="bioNext"></button></div></div></div>'
+bios = _b
+modal = '<div class="bio-bg" id="bioBg" hidden><div class="bio" id="bioDlg" role="dialog" aria-modal="true" aria-labelledby="bioName" aria-describedby="bioBody" tabindex="-1"><div class="bio-head"><div class="bio-ph" id="bioPh"></div><div class="bio-id"><h2 id="bioName"></h2><div class="sub" id="bioSub"></div></div><button type="button" class="bio-x" id="bioX" aria-label="Close biography">\u00d7</button></div><div class="bio-body" id="bioBody"></div><div class="bio-nav"><button type="button" id="bioPrev"></button><button type="button" id="bioNext"></button></div></div></div>'
 footer = '<footer><div class="wrap"><span><b style="color:var(--cream)">The Sticky Wickets Cricket Club</b> · Tigoni, Kenya</span><span>Adhaerere Maneat</span></div></footer>'
 js = r'''
 const IMG=%s, TITLES=%s, BIOS=%s;
@@ -59,20 +63,33 @@ addEventListener('hashchange',route);route();
 const lb=document.getElementById('lb');
 document.querySelectorAll('.gallery a').forEach(a=>a.onclick=e=>{e.preventDefault();lb.querySelector('img').src=a.querySelector('img').src;lb.classList.add('on')});
 lb.onclick=()=>lb.classList.remove('on');
-const bg=document.getElementById('bioBg');let bi=0,lastBtn=null;
-const NAMES=BIOS.map(b=>b.name);
-function showBio(i,btn){bi=(i+BIOS.length)%%BIOS.length;const b=BIOS[bi];if(btn)lastBtn=btn;
-  document.getElementById('bioName').textContent=b.name;document.getElementById('bioSub').textContent=b.role;
-  const ph=document.getElementById('bioPh');ph.innerHTML='';const sp=document.createElement('span');sp.textContent=b.name.split(' ').slice(0,2).map(w=>w[0]).join('');ph.appendChild(sp);
+lb.onclick=()=>lb.classList.remove('on');
+const bg=document.getElementById('bioBg'),dlg=document.getElementById('bioDlg');
+let bi=0,lastBtn=null;const IDS=BIOS.map(b=>b.id);
+const FOC='button:not([disabled]),[href],[tabindex]:not([tabindex="-1"])';
+function fillBio(i){bi=(i+BIOS.length)%%BIOS.length;const b=BIOS[bi];
+  document.getElementById('bioName').textContent=b.name+(b.tag?' ('+b.tag+')':'');document.getElementById('bioSub').textContent=b.subtitle;
+  const ph=document.getElementById('bioPh');ph.innerHTML='';const sp=document.createElement('span');sp.textContent=b.initials;ph.appendChild(sp);
+  if(b.photo&&IMG[b.photo]){const im=new Image();im.alt=b.name;im.onerror=()=>im.remove();im.src=IMG[b.photo];ph.appendChild(im)}
   const body=document.getElementById('bioBody');body.innerHTML='';b.paras.forEach(t=>{const p=document.createElement('p');p.textContent=t;body.appendChild(p)});
-  const pv=BIOS[(bi-1+BIOS.length)%%BIOS.length].name,nx=BIOS[(bi+1)%%BIOS.length].name;
-  document.getElementById('bioPrev').textContent='\u2190 '+pv;document.getElementById('bioNext').textContent=nx+' \u2192';
-  bg.classList.add('on');bg.setAttribute('aria-hidden','false');bg.querySelector('.bio').scrollTop=0;document.body.style.overflow='hidden';document.getElementById('bioX').focus()}
-function hideBio(){bg.classList.remove('on');bg.setAttribute('aria-hidden','true');document.body.style.overflow='';if(lastBtn)lastBtn.focus()}
-document.querySelectorAll('[data-bio]').forEach(el=>el.addEventListener('click',()=>showBio(NAMES.indexOf(el.dataset.bio),el)));
-document.getElementById('bioX').onclick=hideBio;bg.addEventListener('click',e=>{if(e.target===bg)hideBio()});
+  const pv=BIOS[(bi-1+BIOS.length)%%BIOS.length],nx=BIOS[(bi+1)%%BIOS.length];
+  document.getElementById('bioPrev').textContent='\u2190 '+pv.name;document.getElementById('bioNext').textContent=nx.name+' \u2192';
+  body.scrollTop=0}
+function showBio(i,btn){if(btn)lastBtn=btn;fillBio(i);if(bg.hidden){bg.hidden=false;document.body.style.overflow='hidden'}document.getElementById('bioX').focus()}
+function hideBio(){if(bg.hidden)return;bg.hidden=true;document.body.style.overflow='';if(lastBtn&&document.contains(lastBtn))lastBtn.focus()}
+document.querySelectorAll('[data-bio]').forEach(el=>el.addEventListener('click',()=>showBio(IDS.indexOf(el.dataset.bio),el)));
+document.getElementById('bioX').onclick=hideBio;
+let downOnBg=false;bg.addEventListener('mousedown',e=>{downOnBg=e.target===bg});bg.addEventListener('click',e=>{if(e.target===bg&&downOnBg)hideBio();downOnBg=false});
 document.getElementById('bioPrev').onclick=()=>showBio(bi-1);document.getElementById('bioNext').onclick=()=>showBio(bi+1);
-addEventListener('keydown',e=>{if(!bg.classList.contains('on'))return;if(e.key==='Escape')hideBio();if(e.key==='ArrowLeft')showBio(bi-1);if(e.key==='ArrowRight')showBio(bi+1)});
+addEventListener('keydown',e=>{if(bg.hidden)return;
+  if(e.key==='Escape'){e.preventDefault();hideBio();return}
+  if(e.key==='ArrowLeft'&&!e.target.closest('input,textarea')){showBio(bi-1);return}
+  if(e.key==='ArrowRight'&&!e.target.closest('input,textarea')){showBio(bi+1);return}
+  if(e.key==='Tab'){const f=[...dlg.querySelectorAll(FOC)].filter(x=>x.offsetParent!==null);if(!f.length)return;
+    const first=f[0],last=f[f.length-1];
+    if(e.shiftKey&&(document.activeElement===first||document.activeElement===dlg)){e.preventDefault();last.focus()}
+    else if(!e.shiftKey&&document.activeElement===last){e.preventDefault();first.focus()}
+    else if(!dlg.contains(document.activeElement)){e.preventDefault();first.focus()}}});
 addEventListener('keydown',e=>e.key==='Escape'&&lb.classList.remove('on'));
 ''' % (json.dumps(imgs), json.dumps(titles), json.dumps(bios, ensure_ascii=False))
 html = '''<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
