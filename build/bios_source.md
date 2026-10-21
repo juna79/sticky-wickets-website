@@ -1,255 +1,273 @@
 ### Rory Green
 **Subtitle:** All-rounder
 
-Farmer, former Kenya rally champion and annoyingly good at bowls, Rory has spent years collecting sporting talents without discovering how to put his phone down. If he’s stood at the boundary talking, it’ll be Kenga or Denise. We’re hoping to have him available for a full over soon.
+Farmer, former Kenya rally champion and annoyingly good at bowls, Rory has collected an impressive range of sporting talents. We’re hoping some of them will eventually become available for an entire cricket match.
 
-Known as the Green Machine and Line Master, Rory brings experience, ability and a very specific drinks management problem.
+Usually on the phone to Kenga or Denise, the Green Machine can bat, bowl and hold a lengthy conversation at deep square leg. Only one of these disciplines receives uninterrupted practice.
 
-Whiskey must be introduced gradually. Start him too early and you’ll find him installed in Rory’s Corner while a search party works through the bushes looking for his glasses.
+His success at bowls makes sense. The ball stays on the ground and nobody asks him to catch it.
 
-For a man who once navigated rally stages at speed, getting himself home with all his belongings remains a surprisingly technical challenge.
+Whiskey must be introduced gradually. Start him too early and you’ll find him in Rory’s Corner while a search party works through the bushes looking for his glasses.
+
+For a former rally champion, finding his way home with all his equipment remains a surprisingly technical challenge.
 
 ### Daniel Hinds
 **Subtitle:** All-rounder
 
-An electrical engineer by trade, Daniel can sort out your wiring but is currently struggling to get his own arm connected properly.
+An electrical engineer by trade, Daniel understands the importance of a good connection. We’re still hoping this knowledge will eventually transfer to the middle of his bat.
 
-Sidelined with a shoulder injury, the King of Bud has spent years telling everyone there’s nothing wrong with enjoying a joint. Turns out one of his disagrees.
+Currently out with a shoulder injury, he’s been spared the weekly business of explaining whether he’s been picked for his batting or his bowling. “All-rounder” is wonderfully useful when nobody wants to commit to either.
 
-His recovery programme remains unclear, although he’s taking the relaxation part extremely seriously. Ask him how the shoulder’s coming along and you’ll get a detailed update. Ask him to pass the joint and suddenly there’s a perfectly serviceable range of movement.
+His recovery gives him plenty of time to analyse everyone else’s technique, a job made considerably easier by not having to demonstrate his own.
 
-We wish him a speedy return. Until then, he remains the only all-rounder whose main contribution is getting everyone around him absolutely nowhere.
+We look forward to having him back. The team needs wickets, runs and someone who can explain why everything appears to be working until we switch it on.
 
 ### Jezza Cordingley
 **Subtitle:** Captain & All-rounder
 
-Jezza is an agronomist, although any questions about his own garden are immediately referred to Maina, his gardener. Apparently, even the experts know when to call in an expert.
+Jezza is an agronomist, although questions about his own garden are immediately referred to Maina, his gardener. Apparently, even the experts know when to call in an expert.
 
-A good all-rounder and a proper skipper, Jezza’s only real weakness is being somewhere else.
+A good all-rounder and a proper skipper, Jezza’s main weakness is being somewhere else.
 
 Gilgil with the kids. Kilifi. Away for work. His availability updates regularly read like an itinerary for a holiday none of us were invited on.
 
 The team sheet says “(C)”. At this stage, we assume it stands for “Couldn’t make it”.
 
-When he does turn up, the team is better for it. He knows the game, leads the boys well and reminds us why we keep giving the job to a man whose whereabouts require a separate WhatsApp group.
+When he does appear, he reads the game well and somehow finds eleven fielding positions for men who’d all prefer not to run.
 
-For questions about the pitch, we’d still like Maina’s opinion.
+For advice on the pitch, we’d still like Maina’s opinion. He probably spends more time on the grass.
 
 ### Angus Miller
 **Subtitle:** Wicketkeeper & Club Cricket Secretary
 
-Angus has an MBE, which suggests the Palace’s background checks could do with a review.
+Angus has an MBE, organises practically everything and still has to ask grown men six times whether they’re playing on Saturday. There should be a second honour for that alone.
 
-Our club cricket secretary has organised practically everything for us, despite being slowly broken by a squad of grown men incapable of confirming whether they’re coming. Every answered question produces six more. Somewhere in the middle of it all, Angus is expected to play cricket.
+A proper party animal, he somehow finds energy for the evening after spending the day being exhausted by our admin. His wife Els deals with the rest. We suspect the Palace recognised the wrong person.
 
-Fortunately, he’s a proper party animal, so exhaustion only appears to affect the admin. His wife Els deals with the rest, and frankly we think the honour went to the wrong person.
+Behind the stumps, Angus would appreciate deliveries that arrive somewhere near his gloves. Given our bowling, he should probably be issued with a wider pair.
 
-Behind the stumps, Angus brings experience, commitment and the growing suspicion that Liam is after his job. We mention it regularly. He’s already got enough to worry about, so naturally we keep going.
+Liam is after his wicketkeeping spot, a development we mention whenever Angus looks briefly relaxed.
 
-If only King Charles could see him after hours.
+He’s already organising the match, the players and the day. It seems unreasonable to expect him to organise where the ball goes as well.
 
 ### Kyle Denning
 **Subtitle:** K Nilla — Our American Correspondent
 
-Vice chairman of Limuru Country Club, Kyle brings a bit of authority to proceedings. Unfortunately, being American means he occasionally needs those proceedings explained.
+Vice chairman of Limuru Country Club, Kyle brings authority to proceedings. Being American, he occasionally needs those proceedings explained.
 
-K Nilla is still coming to terms with a sport where you can hit the ball behind you, stop for tea and play for five days without anyone winning. To be fair, when he puts it like that, we sound ridiculous.
+Teaching Americans to bowl is dangerous work. The first lesson is that we’re bowling at the stumps, not pitching at a man who’s annoyed us. The second usually involves somebody saying, “Let’s try that again.”
 
-We’ve explained that there are no home runs, he doesn’t get three strikes, and the tea break is a serious part of the fixture.
+K Nilla is also adjusting to a batting stance that doesn’t suggest he’s waiting for a fastball at Yankee Stadium.
 
-He’s taking it all remarkably well. We’re saving the explanation of LBW for a day when neither of us has anywhere to be.
+He makes a fair point about a sport where you can hit the ball behind you, stop for tea and still fail to produce a winner.
+
+We’re saving LBW for a day when neither of us has anywhere to be. For now, we’re pleased he’s stopped asking which innings the hot dogs arrive in.
 
 ### Brian Adkins
 **Subtitle:** Occasionally Ryan
 
-Brian works in conservation, which is admirable considering how much time the team spends trying to release his own wild animal.
+Brian works in conservation and is usually a respectable American. His more adventurous alter ego is called Ryan, and the team is always pleased when he makes an appearance.
 
-That animal is called Ryan.
+On the field, we’d appreciate slightly less commitment to releasing things back into the wild. A cricket ball arriving at catching height is one species we’d very much like him to keep.
 
-Brian is the respectable American you can introduce to people. Ryan is the reason you might have to contact those people the following morning.
+There’s also the small matter of converting a baseball arm into a cricket action. Teaching the Americans to bowl has become a group project, with everyone else advised to stand well back.
 
-We’re always pleased when Brian makes the squad, but we do quietly hope Ryan’s available too. His emergence is one of the few wildlife sightings guaranteed to get the entire team excited.
+Brian brings enthusiasm and good company. Ryan brings the entertainment.
 
-Professionally, Brian believes in protecting endangered species. Socially, we believe Ryan deserves a larger habitat and considerably less supervision.
-
-If Brian tells you he’s having a quiet one, stick around. There may be a sighting.
+We’re hoping one of them brings a reliable pair of hands.
 
 ### Jamie Cocker
 **Subtitle:** All-rounder
 
 One of our best players, Jamie can bat, bowl and, under a very specific set of circumstances, catch.
 
-His finest moment came when he took a one-handed catch with a beer in the other hand and a spliff in his mouth. An outstanding piece of fielding that has bought him years of completely unjustified forgiveness for everything he’s dropped since.
+His finest moment came when he took a one-handed catch with a beer in the other hand. It was an excellent piece of fielding and has been used in his defence ever since.
 
-Give him two free hands and his full attention, however, and suddenly it’s a much more complicated exercise.
+Give him two free hands and suddenly the whole exercise becomes considerably more complicated.
 
-Jamie brings proper ability to the side and can change a game with bat or ball. In the field, we’re considering supplying him with a beer and a spliff as standard equipment.
+Jamie can change a match with bat or ball. In the field, we’d prefer he changed our expectations by holding the straightforward ones as well.
 
-We’ve tried asking him to concentrate. Apparently that was the problem.
+The difficult catch gets a story. The dropped sitter gets mentioned every Saturday for the rest of his life. We believe this is fair.
 
 ### Juna Vidyarthi
 **Subtitle:** Fine Master & Volume Control Issue
 
 Juna is the team’s fine master, which means the loudest bloke in the squad has somehow been given another reason to open his mouth.
 
-Every offence comes with a fine. Complaining about the fine comes with a speech. By the time he’s finished explaining it, most people would happily pay double.
+Every offence comes with a fine. Complaining about the fine comes with a speech. Most people pay quickly for the sake of the afternoon.
 
-At the crease, Juna plays with the patience of a Test batsman and absolutely none of the scheduling awareness. We’ve got one afternoon, mate. You’re allowed to hit it.
+At the crease, Juna plays with the patience of a Test batsman and none of the scheduling awareness. We’ve got one afternoon, mate. You’re allowed to hit it.
 
-He picks up a couple of wickets now and then, each celebrated at a volume suggesting he’s just bowled Kenya into a World Cup final.
+He picks up a couple of wickets now and then, celebrating each as though he’s just bowled Kenya into a World Cup final.
 
-Off the pitch, he gets through Balozis considerably faster than he gets through overs. If we could persuade him to bat with the same urgency he orders his next beer, we’d have a proper effing player.
+Off the pitch, the Balozis disappear considerably faster than the dot balls. If he approached a short delivery with the urgency he gives his next beer, we might have a proper batsman.
 
 ### Seb McKinley
 **Subtitle:** Original Model
 
 Seb splits his time between Kenya and the UK, where Ali and the kids are based. This gives him two countries in which to be unnecessarily competitive.
 
-Seb wants to win. Desperately. Unfortunately, his ability hasn’t always shown the same commitment.
+Seb wants to win. Desperately. His cricketing ability hasn’t always shown the same commitment.
 
-A friendly game is never entirely friendly once Seb gets involved. The rest of us may be having a pleasant afternoon, but he’s treating it as a selection trial for a country that hasn’t called.
+The rest of us may be enjoying a friendly Saturday game, but Seb is treating it as a selection trial for a country that hasn’t called.
 
 To help with the running, bowling and general physical requirements of cricket, we’ve brought in another Seb. Younger model. Fewer miles. Still under warranty.
 
-Original Seb remains an important part of the squad, providing experience, fierce determination and an increasingly personal interest in whether New Seb is actually any good.
+Original Seb provides experience, fierce determination and an increasingly personal interest in whether New Seb is actually any good.
+
+We’re keeping both. One can chase the ball while the other explains how he would have done it.
 
 ### Nadeem Popat
 **Subtitle:** Subject to Laura’s Approval
 
-A travel agent by trade, Nadeem can get you almost anywhere in the world. Getting himself to cricket requires written clearance from Laura.
+A travel agent by trade, Nadeem can get you almost anywhere in the world. Getting himself to cricket requires clearance from Laura.
 
-Short, balding and increasingly reliant on stories about how good he was at sport in his youth, Nadeem now plays golf, where you can blame the clubs and nobody expects you to run.
+He was apparently very good at sport in his youth. We’ve asked for footage, but understand it may need converting from a format nobody owns a player for anymore.
 
-His brothers are much better at sport, which is unfortunate, because we appear to have booked the wrong Popat. You’d expect a travel agent to understand the importance of checking exactly what you’re getting.
+These days he plays golf, which has given him plenty of practice hitting a stationary ball. Cricket’s insistence on moving it remains an unnecessary complication.
 
-All squad invitations should be addressed to Laura, the big boss. Nadeem is welcome to express an interest, but this should never be mistaken for confirmation.
+His brothers are much better at sport, so there’s a suspicion we’ve booked the wrong Popat.
 
-We look forward to having him with us, subject to availability, clearance and whatever terms Laura sets.
+Still, we’re always pleased to have him, subject to Laura’s approval and the usual terms and conditions.
+
+Any selection enquiries should go directly to the big boss. Nadeem will be informed once a decision has been made.
 
 ### Max Green
 **Subtitle:** All-rounder, Treasurer & Rory’s Legal Guardian
 
-Max is Rory’s son and our team treasurer, meaning he’s responsible for both the squad’s finances and making sure his father leaves with his glasses.
+Max is Rory’s son and our team treasurer, responsible for keeping track of both the squad’s money and his father’s glasses.
 
-He now works for Kyle at Kentaste in Ukunda, so we rarely see him. This hasn’t stopped him regularly reminding us we’re hopeless without him. Conveniently, his own performances remain unavailable for comparison.
+He now works for Kyle in Ukunda, so we rarely see him. This hasn’t stopped him reminding us we’re hopeless without him. Conveniently, his own recent performances are unavailable for comparison.
 
-Young, full of banter and absolutely convinced he’s the answer to our problems, Max brings some much-needed youth to a squad that increasingly requires a medical questionnaire.
+An all-rounder with youth on his side, Max has the legs to turn one into two. We’d like to see him use them to turn an availability message into an actual appearance.
 
-His real responsibility, however, is supervising Rory. Most young players arrive hoping to learn from their fathers. Max arrives checking how many whiskies his has had and whether anyone’s searched the bushes.
+When he does arrive, he also has to supervise Rory. Most sons hope to pick up a few tips from their fathers. Max is usually picking up belongings.
 
-We’d love to have him around more often. Rory clearly needs the adult supervision.
+We’d welcome him back any Saturday. Rory clearly needs the adult supervision.
 
 ### Paris Foot
 **Subtitle:** Chai Walla & Occasional Attendee
 
-Paris makes excellent sandwiches, which would be a tremendous contribution if he could deliver them before everyone’s gone home.
+Paris makes excellent sandwiches. We’d appreciate receiving them while there are still players at the ground.
 
-Known as Chai Walla, he operates on a timetable understood only by himself. Any confirmed arrival time should be treated as the start of negotiations.
+Known as Chai Walla, he operates on a timetable understood only by himself. Any confirmed arrival time should be treated as the opening offer.
 
-Paris lost his foot in a motorbike accident, but thankfully the surgeons managed to sew it back on. We’re delighted he’s back on both feet. We’d just like them pointed towards the cricket ground a little more often.
+After a motorbike accident, surgeons thankfully managed to reattach his foot. We’re delighted he’s back on both feet. Getting them to the crease before the innings ends is the next challenge.
 
-Despite having both feet available again, getting him to the ground remains a challenge. He’s usually fishing, sailing across the Atlantic or in his favourite place on earth: Karen.
+He’s usually fishing, sailing across the Atlantic or in Karen, his favourite place on earth.
 
-He spends so much time there that we’re considering arranging a transfer. Karen get their man, we stop waiting for him, and Paris can finally be late for somebody else.
+His preparation for cricket appears to involve spending as much time as possible somewhere else. We’re considering arranging a transfer to Karen.
+
+They get their man, we stop waiting, and Paris can finally be late for somebody else.
 
 ### Ross Samuels
 **Subtitle:** Slip Fielder & Hamstring Preservation Officer
 
-Based in Gigiri, Ross can usually be found in the slips, where he’s carefully calculated that the ball might come to him and he probably won’t have to chase it.
+Based in Gigiri, Ross can usually be found in the slips, where he’s calculated that the ball might come to him and he probably won’t have to chase it.
 
-His entire fielding strategy is built around not pulling a hammy. Captains have tried moving him, but apparently anything beyond second slip requires a medical opinion.
+In theory, this is a catching position. We’d love to see the theory demonstrated a little more often.
 
-Fortunately, his girlfriend Vici now ensures he’s fully “stretched out” before every match. This is comfortably the most thorough preparation anyone in the squad receives, and Ross seems very committed to maintaining the arrangement.
+His fielding strategy is built around preserving his hamstrings. Anything beyond second slip appears to require a medical opinion and advance notice.
 
-We can only hope he reciprocates. Vici’s putting in a proper shift, and it would be disappointing to discover he’s equally reluctant to put in any effort at home.
+Fortunately, Vici makes sure he’s properly stretched before a match. We’re hoping the next stage of the programme involves extending both hands towards a cricket ball.
+
+A fully prepared Ross is an important member of the side. We’d just like him to understand that “stay loose” is advice for his muscles, not his grip.
 
 ### Brian Dempsey
 **Subtitle:** Style Yet to Be Confirmed
 
-Another American in the squad, Brian tries hard when he turns up. We’d love to offer a more detailed assessment, but the sample size remains tiny.
+Another American, Brian tries hard when he turns up. A detailed technical assessment remains difficult because nobody’s collected enough evidence.
 
-For his 40th birthday, Brian decided to run up Mount Kilimanjaro. Most people book a nice lunch. Brian chose altitude sickness and a physical crisis.
+For his 40th birthday, he decided to run up Mount Kilimanjaro. It proved he can make an extraordinary effort to get somewhere, which makes Saturdays slightly harder to explain.
 
-It proved he can make an extraordinary effort to get somewhere, which makes his continued absence on Saturdays slightly harder to explain.
+Between his startup, his wife and the totos, Brian has plenty on his plate. Somehow, Anza bar has solved the availability problem that continues to defeat our captain.
 
-Between his startup Power, his wife and the totos, Brian has plenty on his plate. Somehow, though, Anza bar appears to have cracked the availability problem that continues to defeat our captain.
+His batting stance and bowling action remain subjects for future research. We’d like to establish whether either has made it all the way from baseball to cricket.
 
-His batting and bowling styles remain largely undocumented. For a more reliable sighting, we suggest checking Anza.
-
-He’s run up Kilimanjaro. We’re still trying to get him to run a single.
+He’s run up Africa’s highest mountain. We’re still hoping to see him run a quick single.
 
 ### Ted Pantone
 **Subtitle:** Big Hitter & Catering Connection
 
-Yet another American, Ted comes with two daughters who spoil the team with cakes and Daddy’s favourite cookies. His place in the squad is secure, provided the baking continues.
+Yet another American, Ted comes with two daughters who spoil the team with cakes and Daddy’s favourite cookies. Selection remains straightforward while the baking continues.
 
-Ted enjoys poker, whisky and cigars, and appears to be preparing for retirement as a minor character in a Las Vegas crime film.
+He enjoys poker and whisky, and brings a poker player’s confidence to deliveries that perhaps deserve a little more caution.
 
-With the bat, he’s a big hitter when he connects. Unfortunately, he still thinks he’s playing baseball, so there’s occasionally a considerable disagreement between where the ball is and where Ted feels it ought to be.
+When Ted connects, the ball goes a long way. Unfortunately, he still thinks he’s playing baseball, so there’s occasionally a considerable disagreement between where it is and where he’s swinging.
 
 We’ve explained that he doesn’t get three strikes. He considers this a fairly unreasonable restriction.
 
-On his day, Ted can clear the boundary with ease. On the other days, the girls have usually brought something nice, so it’s never a completely wasted afternoon.
+On his day, Ted can clear the boundary with ease. On the other days, the girls have usually brought something nice.
+
+It’s a very effective insurance policy.
 
 ### Hielko Bartlema
 **Subtitle:** Dutch Representative & Part-time Fielder
 
-Dutch, bald and improving with every game, Hielko is still learning cricket. His wife Annick is our scorer, so at least one person in the household knows exactly what’s going on.
+Hielko is Dutch, still learning cricket and improving with every game. His wife Annick is our scorer, so she can confirm this with figures if necessary.
 
-His progress is regularly interrupted by man flu, a devastating condition that appears to leave him well enough to attend but occasionally too fragile to field.
+His progress is regularly interrupted by man flu, which appears to leave him well enough to attend but occasionally too delicate to field.
 
-Recovery usually takes place on the boundary, where several overs of conversation with his Dutch guests can work absolute wonders.
+Recovery takes place on the boundary, where several overs talking to his Dutch guests can work wonders.
 
-We’re delighted he brings people along. We’d just prefer he didn’t abandon his position to host a small Netherlands embassy reception halfway through an innings.
+He’s getting to grips with fielding positions. The next lesson is that you’re supposed to remain in one until the captain moves you.
 
-Hielko, mate, if you want a proper catch-up, invite them home. Annick’s keeping score, we’re a fielder short, and this is quite literally just not cricket.
+We’re delighted he brings people along, but catching up with friends isn’t quite the same as taking a catch.
+
+Hielko, invite them home afterwards. Annick’s keeping score and we’re a fielder short.
 
 ### Liam O’Meara
 **Subtitle:** Lord Liam
 
-A proper Englishman, Lord Liam brings etiquette, good manners and the firm belief that Angus’s wicketkeeping gloves would be better off in his possession.
+A proper Englishman, Lord Liam brings etiquette, good manners and a firm belief that Angus’s wicketkeeping gloves belong to him.
 
-He hits a big ball and bowls well, which is particularly impressive considering he still uses a bat apparently issued to him when he was eight. We’re unsure whether it’s sentimental value or he’s waiting for his parents to buy him the next size up.
+He hits a big ball and bowls well, which is impressive considering he still uses a bat apparently issued to him when he was eight. We’re unsure whether it’s sentimental value or he’s waiting for his parents to buy the next size up.
 
-For all his breeding, Liam consistently disappears before fines. He spends the afternoon enthusiastically earning them, then makes a remarkably well-timed exit before we can discuss his achievements.
+He’s one of the few players whose equipment needs to grow up before his cricket does.
 
-His Lordship is welcome to pursue the wicketkeeping position. We’d just appreciate him remaining on the premises long enough to hear what the rest of us thought of his performance.
+His manners remain excellent until fines, when he disappears. He spends the afternoon earning them, then makes a beautifully timed exit before we can review his work.
+
+His Lordship is welcome to apply for the gloves. We’d first appreciate a demonstration of his ability to stay in one place until proceedings are finished.
 
 ### Felix
 **Subtitle:** Umpire & Wide Denier
 
 A jazz conductor by trade, Felix turns up to umpire in a suit, giving our Saturday cricket considerably more dignity than it deserves.
 
-He’s used to directing an ensemble with his arms, which makes his complete refusal to extend them for a wide particularly difficult to understand.
+He’s used to directing an ensemble with his arms, which makes his refusal to extend them for a wide particularly difficult to understand.
 
-A ball can pass three feet down leg and Felix will watch it go with the composure of a man enjoying a perfectly acceptable passage of play. Apparently, we’re all expected to improvise.
+A ball can pass three feet down leg and he’ll watch it go as though the bowler has done something quite reasonable.
 
-Fortunately, he and his wife Berry make outstanding coronation chicken sandwiches. This has bought him a level of protection from criticism that the rest of the umpiring profession can only dream of.
+Our bowling requires an understanding umpire. Felix has taken this to a level none of us felt comfortable requesting.
 
-Immaculately dressed, exceptionally well catered and determined to finish the innings without signalling a single wide.
+Fortunately, he and Berry make outstanding coronation chicken sandwiches, buying him considerable goodwill.
+
+He says jazz allows room for interpretation. Judging by our extras, so does his umpiring.
 
 ### Tony
 **Subtitle:** Still Turning Up
 
-Tony had a heart attack last year and still makes it down to support the team whenever he’s around, which rather undermines everyone else’s excuses about being a bit tired.
+Tony had a heart attack last year and still makes it down to support the team whenever he’s around. Everyone else may wish to reconsider their excuses about being a bit tired.
 
-We even persuaded him to play when the Stickes played the Stickes. A lovely idea, right up until someone remembered we were supposed to be playing tip and run.
+We even persuaded him to play when the Stickes played the Stickes, before remembering the proposed format was tip and run.
 
-With no defibrillator on the field, we felt the compulsory sprinting element deserved a rethink.
+With no defibrillator at the ground, compulsory sprinting was promptly removed from the plan.
 
-The rules were amended, Tony took his place, and the rest of us briefly experienced what it’s like to make a sensible decision.
+Most of the fully fit squad had been treating running as optional for years, so the adjustment wasn’t especially difficult.
 
-It’s always good to have him around. We’d just prefer his next contribution to the club’s history didn’t require an incident report.
+It’s always good to have Tony around. He turns up, supports the boys and has already demonstrated more heart than several of us do when asked to field uphill.
 
 ### Annick
 **Subtitle:** Scorer & Hielko Management
 
-Annick turns up with her pug and voluntarily spends a Saturday trying to make sense of our cricket. She’s learned how to score for us, which is a tremendous commitment to documenting something most of us would prefer everyone forgot.
+Annick arrives with her pug and voluntarily spends a Saturday making sense of our cricket. Learning to score for this lot is an act of considerable generosity.
 
-Married to Hielko, she’s already experienced in keeping track of a man who occasionally wanders off without contributing any runs.
+She records the runs, wickets and extras, then somehow resists asking whether we’ve considered a different sport.
 
-While he’s on the boundary conducting Dutch diplomatic business or recovering from another devastating bout of man flu, Annick is quietly keeping the whole thing together.
+Keeping up with our singles gives her plenty of thinking time. Keeping up with our wides depends very much on who’s umpiring.
 
-A true sport and an essential part of the team, she deserves our thanks for learning the scoring, putting up with the boys and taking Hielko home afterwards.
+Married to Hielko, she’s already experienced in tracking a man who occasionally wanders off without contributing any runs.
 
-The pug, so far, has given her considerably less trouble.
+While he conducts Dutch diplomatic business on the boundary, Annick keeps the actual match in order.
+
+She deserves our thanks for learning the scoring, putting up with the boys and taking Hielko home afterwards. The pug continues to be the easier assignment.

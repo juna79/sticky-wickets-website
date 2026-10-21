@@ -44,6 +44,11 @@ def player_card(x):
             f'<div class="photo"><span class="ini">{x["initials"]}</span>{ph}{tag}</div>'
             f'<div class="info"><h3>{x["name"]}</h3><div class="role">{x["cardLabel"]}</div><span class="rd">Read bio →</span></div></button>')
 
+UPCOMING = [  # chronological; time/venue left TBC unless supplied
+    {"iso":"2026-10-31","day":"31","mon":"Oct","long":"Saturday 31 October 2026","opp":"Mutaiga Country Club","where":"Limuru Grounds \u00b7 Start time TBC"},
+    {"iso":"2026-11-21","day":"21","mon":"Nov","long":"Saturday 21 November 2026","opp":"The Swish","where":"Venue and start time TBC"},
+]
+UPCOMING.sort(key=lambda f:f["iso"])
 NEXT = '<div class="date"><b>31</b><span>Oct</span></div><div><div class="vs">Sticky Wickets v Mutaiga Country Club</div><div class="sub">Saturday 31 October 2026 · Limuru Grounds · Start time TBC</div></div><span class="tag">Upcoming</span>'
 PAST = '''<a class="match" href="medics-match.html"><div class="date"><b>2026</b><span>Season</span></div><div><div class="vs">Sticky Wickets v The Medics</div><div class="sub">Tigoni · A clinical performance in glorious sunshine</div></div><span class="tag win">Match report →</span></a>
 <a class="match" href="misty-game.html"><div class="date"><b>11</b><span>Jul</span></div><div><div class="vs">Sticky Wickets in the Mist</div><div class="sub">Tigoni · Visibility optional, appeals compulsory</div></div><span class="tag win">Match report →</span></a>
@@ -93,9 +98,13 @@ write("club.html", head("The Club","club.html") + hero("The club","More than a c
 ''' + FOOT)
 
 # ---------- fixtures
+_f=UPCOMING[0]
+UP_HTML = (f'<div class="nextcard reveal"><div class="big"><time datetime="{_f["iso"]}">{_f["day"]}</time><small>{_f["mon"].upper()}</small></div><div><span class="pill">Next match</span><h3 style="margin-top:10px">Sticky Wickets v {_f["opp"]}</h3><div class="sub">{_f["long"]} \u00b7 {_f["where"]}</div></div></div>'
+  + '<div class="matches reveal" style="display:grid;margin-top:14px">' + "".join(f'<div class="match"><div class="date"><b><time datetime="{f["iso"]}">{f["day"]}</time></b><span>{f["mon"]}</span></div><div><div class="vs">Sticky Wickets v {f["opp"]}</div><div class="sub">{f["long"]} \u00b7 {f["where"]}</div></div><span class="tag">Upcoming</span></div>' for f in UPCOMING[1:]) + '</div>')
+
 write("fixtures.html", head("Fixtures","fixtures.html") + hero("Season 2026","Fixtures &amp; results","The next match, and everything we have played so far.") + f'''
 <section><div class="wrap"><div class="sec-head reveal"><div><span class="eyebrow">Next match</span><h2>Coming up</h2></div></div>
-<div class="nextcard reveal"><div class="big">31<small>OCTOBER</small></div><div><span class="pill">Upcoming</span><h3 style="margin-top:10px">Sticky Wickets v Mutaiga Country Club</h3><div class="sub">Saturday 31 October 2026 · Limuru Grounds · Start time TBC</div></div></div></div></section>
+{UP_HTML}</div></section>
 <section class="band"><div class="wrap"><div class="sec-head reveal"><div><span class="eyebrow">Season 2026</span><h2>Results &amp; reports</h2></div></div>
 <div class="matches panel on reveal" style="display:grid">{PAST}</div>
 <p class="note">Full scorecards will be added as they come in.</p></div></section>
